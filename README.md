@@ -1,4 +1,4 @@
-<h1 align="center">:desktop: Hi I'm Totika</h1>
+<h1 align="center">:desktop: Hi I'm Kapsent</h1>
 <p align="center">
  <a href="https://discord.com/users/346030053185945600" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.github.com/Totikashu" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
@@ -22,4 +22,5 @@
 </p>
 </span>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/346030053185945600)](https://discord.com/users/346030053185945600)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/850362585387368518
+                            )](https://discord.com/users/850362585387368518)
